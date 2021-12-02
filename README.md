@@ -1,6 +1,6 @@
 Hello, I am Huong Vo. 
 
-I am a Data Science enthusiast, a self starter and a highly motivated indvidual. 
+I am a Data Science enthusiast, a self starter and a highly motivated individual. 
 I am highly quantitative.
 
 My passion is digging deep into data and turn them into insights to help business and communities make good decisions.
