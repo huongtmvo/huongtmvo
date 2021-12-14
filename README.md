@@ -14,4 +14,4 @@ I strongly believe that learning is lifelong and something that needs to do ever
 I love to use what I have learned in the field and applied them with my Data Science and Coding projects. Check out my portfolio at [link](https://huongvo99.github.io/HuongVo_Portfolio/) 
 
 I am currently looking for Data Science, software developer and related jobs in the Bay Area.
-Shoot me a message if you think I'll fit into some related roles. :) 
+Shoot me a message if you think I'll fit into some related roles :)
