@@ -5,4 +5,4 @@ I am a Computer Science enthusiast, a self starter and a highly motivated indivi
  *  Database/Server: MySQL, Postgres, SQL Server
  *  Competencies: Machine Learning, Data Structures & Algorithms, Probability/Statistics, Statistical Analysis, Big data, Data modeling, Data management, Data Visualization, Tableau
 
-I am pursuing my Master Degree in Computer Science and looking for internship/full time opportunity
+I am pursuing my Master Degree in Computer Science with Machine Learning concentration and looking for internship/full time opportunity
